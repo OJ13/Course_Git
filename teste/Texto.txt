@@ -1,0 +1,3 @@
+Modo texto Insert, parece que funcionou
+Quebra de linha
+	tab tambem
